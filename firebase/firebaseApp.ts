@@ -8,12 +8,12 @@ import { EmailAuthProvider } from "firebase/auth";
 import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCAbK0DDQB7dMl7LpPCFmzEvtrTHJYw6UE",
-  authDomain: "examregsystem.firebaseapp.com",
-  projectId: "examregsystem",
-  storageBucket: "examregsystem.appspot.com",
-  messagingSenderId: "92530767588",
-  appId: "1:92530767588:web:2b3cd93ccb5e30893f9ef1"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase

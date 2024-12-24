@@ -124,7 +124,7 @@ firebase deploy
 
 ## 👥 Authors
 
-- **Hythar** - *Initial work* - [YourGithub](https://github.com/Hythar)
+- **Hythar** - [Github](https://github.com/Hythar)
 
 ## 🙏 Acknowledgments
 

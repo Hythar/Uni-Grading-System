@@ -3,18 +3,21 @@
 
 A comprehensive exam management platform for university built with modern web technologies. Streamlines course registration, grade management, and academic records for universities.
 
-Login and SignUp
+ Login and SignUp
 ![image](https://github.com/user-attachments/assets/26ab0b30-a176-464a-b7d3-dbfcfeb720df)
 
 
-Admin Dashboard
+ Admin Dashboard
 ![image](https://github.com/user-attachments/assets/030d6424-4c29-4182-8b1c-ca0d42ab3e19)
 
-Lecturer Dashboard
+
+ Lecturer Dashboard
 ![image](https://github.com/user-attachments/assets/1b23dbfd-5612-4751-acf7-101d76e57638)
 
-Student Dashboard
+
+ Student Dashboard
 ![image](https://github.com/user-attachments/assets/d270bece-d6b8-421e-af8d-5f25ff460858)
+
 
 ## 🚀 Key Features
 

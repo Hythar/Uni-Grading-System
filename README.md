@@ -13,6 +13,9 @@ Admin Dashboard
 Lecturer Dashboard
 ![image](https://github.com/user-attachments/assets/1b23dbfd-5612-4751-acf7-101d76e57638)
 
+Student Dashboard
+![image](https://github.com/user-attachments/assets/d270bece-d6b8-421e-af8d-5f25ff460858)
+
 ## 🚀 Key Features
 
 - **Multi-Role Authentication**

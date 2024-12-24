@@ -105,19 +105,30 @@ npm run test:coverage
 
 ## 📝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/eature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork repository to your GitHub account
+2. Clone your fork locally
+   ```bash
+   git clone https://github.com/your-username/Uni-Grading-System.git
+   ```
+3. Create branch
+   ```bash
+   git checkout -b feature-name
+   ```
+4. Make changes and commit
+   ```bash
+   git add .
+   git commit -m "Description of changes"
+   ```
+5. Push changes
+   ```bash
+   git push origin feature-name
+   ```
+6. Create Pull Request against main repository
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGithub](https://github.com/yourusername)
+- **Hythar** - *Initial work* - [YourGithub](https://github.com/Hythar)
 
 ## 🙏 Acknowledgments
 

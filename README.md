@@ -89,19 +89,6 @@ npm run preview
 firebase deploy
 ```
 
-## 🧪 Testing
-
-```bash
-# Run unit tests
-npm run test
-
-# Run E2E tests
-npm run test:e2e
-
-# Generate coverage report
-npm run test:coverage
-```
-
 ## 📝 Contributing
 
 1. Fork repository to your GitHub account
